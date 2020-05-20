@@ -1,0 +1,25 @@
+h1{
+    color: black;
+}
+h2{
+    color:white;
+}
+.title{
+    background-color: cadetblue ;
+    display:flex;
+    flex-wrap:wrap;
+    justify-content: space-between;
+}
+.table{
+    background-color: rgba(22, 140, 170, 0.836);    
+}
+
+.links{
+    background-color: grey;
+    display:flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+.end{
+    background-color: cadetblue;
+}

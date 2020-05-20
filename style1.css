@@ -1,0 +1,24 @@
+h1{
+    color: black;
+}
+h2{
+    color:white;
+}
+.title{
+    background-color: cadetblue ;
+    display:flex;
+    flex-wrap:wrap;
+    justify-content: space-between;
+}
+.rubbish{
+    background-color: black
+    display:flex;
+    flex-wrap:wrap;
+    justify-content: space-between;
+}
+.links{
+    background-color: grey;
+    display:flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
